@@ -22,5 +22,4 @@
 ## Материалы курса
 
 [Открытый курс mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
-[МФК МГУ "Основы программирования на Python"](https://lk.msu.ru/course/view?id=4364)
 [МФК МГУ "Машинное обучение для решения прикладных задач"](https://lk.msu.ru/course/view?id=2448)
